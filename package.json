@@ -4,14 +4,30 @@
     "mysql": "^2.18.1",
     "sql-formatter": "^12.1.0"
   },
-  "name": "mongo2sql",
+  "name": "@alloco225/mongo2sql",
   "type": "module",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Converts a mongodb collection into a sql relational database script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Amané Hosanna",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alloco225/mongo2sql.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "SQL",
+    "relational database",
+    "mySQL",
+    "convert mongo to SQL"
+  ],
+  "bugs": {
+    "url": "https://github.com/Alloco225/mongo2sql/issues"
+  },
+  "homepage": "https://github.com/Alloco225/mongo2sql#readme"
 }
