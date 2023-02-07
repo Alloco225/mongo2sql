@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "mysql": "^2.18.1",
+    "sql-formatter": "^12.1.0"
+  },
+  "name": "mongo2sql",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Converts a mongodb collection into a sql relational database script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amané Hosanna",
+  "license": "ISC"
+}
